@@ -1,0 +1,1 @@
+greet = str => "hello world!"
